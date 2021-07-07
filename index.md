@@ -8,7 +8,7 @@
   </head>
   <body>
     <a-scene>
-      <a-sky src="PROGRESO.jpg" rotation="0 -130 0"></a-sky>
+      <a-sky src="INCLUSION.jpg" rotation="0 -130 0"></a-sky>
 
       <a-text font="kelsonsans" value="" width="6" position="-2.5 0.25 -1.5"
               rotation="0 15 0"></a-text>
